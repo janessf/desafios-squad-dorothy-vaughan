@@ -29,6 +29,7 @@ Repositório colaborativo do Squad Dorothy Vaughan, referente ao Desafio de Cód
 
 1. Clarice Soares adicionou as primeiras linhas de código e criou três classes: Cliente, Produto e Transação e adicionou os construtores.
 2. Maria carolina adicionou classe pessoa para aplicar conceito de herança visto que cliente e uma pessoa , criou a classe mercado adicionou também alguns metodos para adicionar os objetos clientes, produtos e armazenar o historico de transacoes em lista, assim como também métodos para mostrar os dados armazenados nas listas clientes, produtos, transacoes.
+3. Jane Souza adicionou decorador @property à classe produto, em dois atributos para tornarem acessíveis como propriedades"
 
 ## Desafio 2 - Banco de dados Sistema Gerenciamento Biblioteca
 
